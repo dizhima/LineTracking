@@ -1,0 +1,8 @@
+numpy==1.21.6
+onnxruntime==1.14.1
+onnxruntime_gpu==1.14.1
+open3d==0.17.0
+opencv_python==4.7.0.72
+pyrealsense2==2.53.1.4623
+scipy==1.7.3
+tifffile==2023.3.21
