@@ -5,6 +5,10 @@ The code is for a line tracking project, the goal is to use the RGB channel of a
 
 - Please prepare an environment with python=3.7, and then use the command "pip install -r requirements.txt" for the dependencies.
 
+```bash
+pip install -r requirements.txt
+```
+
 ## 2. Usage
 
 - Run the inference code on realsense camera
